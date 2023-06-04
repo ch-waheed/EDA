@@ -4,6 +4,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 from matplotlib import pyplot as plt
 
+# load csv dataset
 data = pd.read_csv('C:\\Users\\Mega Computers\\Desktop\EDA\\sales_data.csv')
 
 # Display the first few rows of the dataset
